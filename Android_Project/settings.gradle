@@ -1,0 +1,3 @@
+include ':MyNativeModule'
+include ':app'
+rootProject.name = "MyNativePlugin"
